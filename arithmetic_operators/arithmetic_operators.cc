@@ -1,4 +1,3 @@
-
 /* 
  Universidad de La Laguna
  * Escuela Superior de Ingeniería y Tecnología
@@ -7,10 +6,13 @@
 
  * @author Ángela Izquierdo Padrón
  * @date 26 Octubre 2022
- * @brief Este es un programa que ordena los bytes .
+ * @brief Es un programa que imprime en pantalla tipos aritmetico y el resultado de operar las variables
+ *        con todos los operadores que pueda utilizar con ellas. Utilice operadores aritméticos y de comparación
 */ 
+
 #include<iostream>
 #include<cmath>
+
 int main() {
   std::cout << "Este es un programa muestra todas las operaciones aritmeticas y las comparaciones\n";
   std::cout << "Introduce dos numeros\n" << "El primer numero:";
